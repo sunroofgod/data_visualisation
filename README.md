@@ -3,7 +3,7 @@
 #### Lian Kah Seng [@sunroofgod](https://github.com/sunroofgod)
 
 ### The Elpehant in the Room 
-What is this project about? Well, here's a question for you. Ever wondered how 'Popular' your birthday is? Well, in this project, I go in-depth into a Dataset containing U.S. births data for the years 1994 to 2003.
+What is this project about? Well, here's a question for you. Ever wondered how 'Popular' your birthday is? Well, in this project, I go in-depth into a Dataset containing U.S. births data for the years 1994 to 2014.
 
 ### About
 - View the source code [here](main.ipynb)
